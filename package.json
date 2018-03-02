@@ -1,6 +1,6 @@
 {
-  "name": "vue-doc-loader",
-  "version": "1.0.0",
+  "name": "vue2-doc-loader",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,13 +9,16 @@
   "license": "ISC",
   "devDependencies": {
     "highlight.js": "^9.12.0",
-    "markdown-it-container": "^2.0.0"
+    "markdown-it": "^2.0.0"
   },
-  "dependencies": {
-    "remark": "^9.0.0",
-    "remark-html": "^7.0.0",
-    "remark-parse": "^5.0.0",
-    "unified": "^6.1.6"
-  },
-  "description": ""
+  "description": "",
+  "keywords": [
+    "vue",
+    "vue2",
+    "doc",
+    "document",
+    "webpack",
+    "loader",
+    "markdown"
+  ]
 }
