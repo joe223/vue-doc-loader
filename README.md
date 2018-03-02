@@ -20,10 +20,7 @@
 ```
 
 - In `.vue` file
-```html
-<template lang="docs">
-  <!-- doc -->
-  # markdown
-  <button @click="hello">hello</button>
-</template>
-```
+![source](./source.png)
+
+- Something show below
+![demo](./demo.png)
