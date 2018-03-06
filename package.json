@@ -7,7 +7,7 @@
   },
   "author": "joe223",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "highlight.js": "^9.12.0",
     "markdown-it": "^2.0.0"
   },
