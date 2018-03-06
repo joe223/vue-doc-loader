@@ -20,7 +20,7 @@
 ```
 
 - In `.vue` file
-![source](./source.png)
+![source](https://github.com/joe223/vue2-doc-loader/raw/master/source.png)
 
 - Something show below
-![demo](./demo.png)
+![demo](https://github.com/joe223/vue2-doc-loader/raw/master/demo.png)
