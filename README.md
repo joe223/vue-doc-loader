@@ -11,7 +11,7 @@
       loader: 'vue-loader',
       options: {
         loaders: {
-          docs: 'vue-doc-loader'
+          docs: 'vue2-doc-loader'
         },
       }
     },
