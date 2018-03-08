@@ -24,9 +24,9 @@ module.exports = function (source, map) {
 }
 
 function vueTagEscape (source) {
-  return source.replace('@', '___at___')
+  return source.replace(/@/g, '___at___')
 }
 
 function vueTagUnEscape (source) {
-  return source.replace('___at___', '@')
+  return source.replace(/___at___/g, '@')
 }
